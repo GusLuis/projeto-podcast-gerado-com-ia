@@ -11,6 +11,7 @@
 
 <div align="center">
     <audio src="audio/Inteligência Artificial ou Espertice Artificial.mp3" controls title="Podcast editado"></audio>
+    <p>[Ouça o áudio] (<a href="https://drive.google.com/file/d/1Ag08mNJeMJ8vkA2Y8iFRQiEkKinFedbT/view?usp=drive_link">🎙️ clique aqui</a>) </p>
 </div>
 <br>
 
